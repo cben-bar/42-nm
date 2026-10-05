@@ -1,2 +1,2 @@
-# 42--nm
+# 42-nm
 This project is about recoding the command nm.
